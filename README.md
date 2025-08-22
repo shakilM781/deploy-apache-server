@@ -1,2 +1,2 @@
 # deploy-apache-server
-Deploy a Custom Apache Web Server on Amazon EC2
+Launch EC2 instances in Linux server connecting Apache web server
